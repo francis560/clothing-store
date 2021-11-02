@@ -10,7 +10,7 @@ const Header = () => {
                 
                 <div className="contenedor">
 
-                    <div className="header h-full rounded-md"></div>
+                    <div className="header h-full"></div>
 
                 </div>
 

@@ -4,8 +4,8 @@ import "./css/Nav.css";
 
 const Nav = () => {
     return (
-        <div>
-            <nav className="w-full bg-gray-100">
+        <div className="stiky top-0">
+            <nav className="w-full bg-gray-100 backdrop-blur-xl">
                 <div className="flex">
 
                     <div className="flex mx-auto p-4 font-medium">
