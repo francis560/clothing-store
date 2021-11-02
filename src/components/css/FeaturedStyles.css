@@ -1,0 +1,17 @@
+.card-1 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://images.pexels.com/photos/8747027/pexels-photo-8747027.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+}
+
+.card-2 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://images.pexels.com/photos/10012714/pexels-photo-10012714.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+}
+
+.card-3 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://images.pexels.com/photos/8218384/pexels-photo-8218384.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500     ');
+}

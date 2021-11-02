@@ -1,20 +1,20 @@
 import React from "react";
-import './Nav.css';
+import "./css/Nav.css";
 
 
 const Nav = () => {
     return (
         <div>
-            <nav className="w-full navbar">
+            <nav className="w-full bg-gray-100">
                 <div className="flex">
 
-                    <div className="flex mx-auto p-4">
+                    <div className="flex mx-auto p-4 font-medium">
 
                         <div className="my-auto mx-3">
-                            <a href="#">Home</a>
+                            <a href="#" className="hover:text-gray-400 active:text-gray-400">Home</a>
                         </div>
                         <div className="my-auto mx-3">
-                            <a href="#">Store</a>
+                            <a href="#" className="hover:text-gray-400 active:text-gray-400">Store</a>
                         </div>
                         <div className="mx-4">
                             <a href="#">
@@ -26,10 +26,10 @@ const Nav = () => {
                             </a>
                         </div>
                         <div className="my-auto mx-3">
-                            <a href="#">Blog</a>
+                            <a href="#" className="hover:text-gray-400 active:text-gray-400">Blog</a>
                         </div>
                         <div className="my-auto mx-3">
-                            <a href="#">About</a>
+                            <a href="#" className="hover:text-gray-400 active:text-gray-400">About</a>
                         </div>
 
                     </div>
