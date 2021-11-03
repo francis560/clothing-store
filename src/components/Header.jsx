@@ -6,7 +6,7 @@ const Header = () => {
     return(
         <div>
 
-            <div className="p-10">
+            <div className="p-10 mt-10">
                 
                 <div className="contenedor">
 
