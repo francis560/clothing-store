@@ -3,8 +3,9 @@ import Nav from "./components/Nav";
 import Header from "./components/Header";
 import FeaturedStyles from "./components/FeaturedStyles";
 import TrendingNow from "./components/TrendingNow";
-import MemberBenefits from "./components/MemberBenefits";
+import ProductSlider from "./components/ProductSlider";
 import MoreToExplore from "./components/MoreToExplore";
+import MemberBenefits from "./components/MemberBenefits";
 import Footer from "./components/Footer";
 
 
@@ -19,6 +20,7 @@ const App = () => {
             <Header />
             <FeaturedStyles />
             <TrendingNow />
+            <ProductSlider />
             <MoreToExplore />
             <MemberBenefits />
             <Footer />
